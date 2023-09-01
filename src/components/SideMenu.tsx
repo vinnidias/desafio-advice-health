@@ -31,9 +31,9 @@ export const SideMenu = () => {
 
   return (
     <aside
-      className={`absolute left-0 top-[8vh] flex-col justify-center items-center h-screen ${
+      className={`absolute left-0 top-[8vh] flex-col justify-center items-center h-[100%] ${
         isOpen ? "w-36" : "w-12"
-      }  border-r-2 pl-2 ease-linear pt-2`}
+      }  border-r-2 pl-2 ease-linear pt-2 bg-slate-50`}
     >
       <button onClick={() => setIsOpen(!isOpen)}>
         {isOpen ? <BiChevronLeft /> : <BiChevronRight />}
