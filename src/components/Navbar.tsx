@@ -3,7 +3,7 @@ import avatar from "../assets/avatar-de-perfil.png";
 
 export const Navbar = () => {
   return (
-    <nav className="absolute top-0 flex justify-between w-screen h-[8vh] px-10 py-2 shadow-sm">
+    <nav className="absolute top-0 flex justify-between w-screen h-[8vh] px-10 py-2 shadow-md bg-slate-50">
       <div>
         <h1 className="text-base">Nome da Clínica</h1>
         <p className="text-sm">Nome do Colaborador</p>
