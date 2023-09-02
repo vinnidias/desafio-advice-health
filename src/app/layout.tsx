@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="ptbr">
+    <html lang="en" className="overflow-auto md:overflow-hidden">
       <body className={inter.className}>
         <Navbar />
         <SideMenu />
