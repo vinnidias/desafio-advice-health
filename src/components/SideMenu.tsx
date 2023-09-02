@@ -24,7 +24,7 @@ export const SideMenu = () => {
     },
     {
       name: "Consultas",
-      href: "/consultations",
+      href: "/appointments",
       icon: <BiListCheck />,
     },
   ];
