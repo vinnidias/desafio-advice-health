@@ -1,8 +1,6 @@
 # Desafio Advice Health.
 
-Projeto criado com NextJS 13 para reprodução do wireframes enviados. <br>
-
- Pode ser instalado para rodar localmente.
+Projeto criado com NextJS 13 para reprodução do wireframes recebidos para o desafio. <br>
   
  ## Instalação e Execução
  
