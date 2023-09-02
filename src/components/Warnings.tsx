@@ -33,7 +33,7 @@ export const Warnings = () => {
   ];
   return (
     <>
-      <p>AVISOS/LEMBRETES</p>
+      <p className="pl-2">AVISOS/LEMBRETES</p>
       <table className="border-2 border-gray-100">
         <thead className="bg-gray-100 border-2">
           <tr className="text-sm p-3">

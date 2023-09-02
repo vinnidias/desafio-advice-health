@@ -1,7 +1,7 @@
 export const Dashboard = () => {
   return (
     <>
-      <p>DASHBOARD</p>
+      <p className="pl-2">DASHBOARD</p>
       <div className="flex flex-col h-[50%] gap-6 mb-6 md:flex-row">
         <div className="flex flex-col justify-center items-center w-[100%] h-[100%] bg-gray-50">
           <p className="text-2xl">22</p>
